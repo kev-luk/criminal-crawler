@@ -1,0 +1,470 @@
+{
+    "source_code": "UK_MWL",
+    "source_name": "UK Most Wanted List",
+    "source_url": "https://www.nationalcrimeagency.gov.uk/most-wanted-search",
+    "source_title": "Search - National Crime Agency",
+    "persons": [
+        {
+            "firstname": "RICHARD",
+            "lastname": "WAKELING",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "5'11",
+                "build": "Slim",
+                "hair_color": "Brown",
+                "hair_length": "Short",
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "Richard Wakeling, from Brentwood, Essex, tried to import \u00a38million of liquid amphetamine into the UK in April 2016. On April 9 last year he was convicted and sentenced to 11 years after he absconded before his 12-week trial began.",
+                "location_of_crime": "South East, London, Overseas",
+                "date_of_incident": "2016-04-09",
+                "type_of_crime": "Drug trafficking",
+                "additional_information": "Wakeling has a right lower leg amputation and uses a prosthetic leg. He has family and friends in Ireland, Spain, Canada and Thailand. He requires regular medical treatment.",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "DANIEL",
+            "lastname": "DUGIC",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": null,
+                "build": null,
+                "hair_color": null,
+                "hair_length": null,
+                "ethnic_appearance": "Eastern European"
+            },
+            "other": {
+                "background_information": "Dugic is suspected of being involved in a conspiracy to import 255 kilos of cocaine. A number of other individuals were convicted in June 2011. The conspiracy involved a small UK vessel meeting a commercial container ship in the English Channel from which the drugs were transferred. Although Dugic was not on board either vessel, he is alleged to have played a major part in organising the importation.",
+                "location_of_crime": "London",
+                "date_of_incident": "2011-10-21",
+                "type_of_crime": "Drug trafficking",
+                "additional_information": "Dugic is originally from Serbia",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "DEREK",
+            "lastname": "MCGRAW",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "155 - 160 cm",
+                "build": null,
+                "hair_color": "Brown / grey",
+                "hair_length": "Balding",
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "Ferguson is sought in connection with the murder of Thomas Cameron on 28 June 2007 at the Auchinairn Tavern, Bishopbriggs near Glasgow.",
+                "location_of_crime": "Scotland",
+                "date_of_incident": "2007-06-28",
+                "type_of_crime": "Murder",
+                "additional_information": "Ferguson was born in Glasgow in 1964. He has green/blue eyes and short balding brown/grey hair.",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "ALLAN",
+            "lastname": "FOSTER",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "170 - 175 cm",
+                "build": "Slim",
+                "hair_color": "Black",
+                "hair_length": "Short crop",
+                "ethnic_appearance": null
+            },
+            "other": {
+                "background_information": "Foster is alleged to have murdered David 'Noddy' Rice at the Marsden Bay Car Park, South Shields on 24th May 2006.",
+                "location_of_crime": "North East",
+                "date_of_incident": "2006-05-24",
+                "type_of_crime": "Drug trafficking, Murder",
+                "additional_information": "Foster has links to the Canary Islands and Majorca. He is also known to use the alias Shaun Michael Wilkinson.",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "KEVIN",
+            "lastname": "THOMAS",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "195 - 200cm",
+                "build": "Stocky",
+                "hair_color": "Ginger",
+                "hair_length": "Short crop",
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "Kevin Thomas Parle is wanted in connection with the murders in Liverpool of 16yr old Liam Kelly in 2004 & Lucy Hargreaves in 2005",
+                "location_of_crime": "North West",
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": "Murder",
+                "additional_information": "Also known as 'Hemp'.",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "FATAH",
+            "lastname": "BENLAREDJ",
+            "about": {
+                "age": null,
+                "gender": null,
+                "height": null,
+                "build": null,
+                "hair_color": null,
+                "hair_length": null,
+                "ethnic_appearance": null
+            },
+            "other": {
+                "background_information": "Fatah Benlaredj is wanted for the rape of a 7 year old girl",
+                "location_of_crime": null,
+                "date_of_incident": "2007-05-01",
+                "type_of_crime": "Rape, Child sexual abuse",
+                "additional_information": "Benlaredj also uses the nickname Samir",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "SHASHI",
+            "lastname": "DHAR",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "170 - 175 cm",
+                "build": "Stocky",
+                "hair_color": "Grey",
+                "hair_length": "Short",
+                "ethnic_appearance": "Indian"
+            },
+            "other": {
+                "background_information": "Sahnan is accused of being involved in the importation of controlled Class A drugs, heroin, into the United Kingdom. The huge quantity of drugs, which were concealed in packaging surrounding air conditioning units, was seized by HM Revenue and Customs during a joint operation with Leicestershire police in July 2007. Customs officers found the drugs hidden in the struts of pallets upon which the machinery was being transported.",
+                "location_of_crime": null,
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": "Drug trafficking",
+                "additional_information": "Born in India, Sahnan has brown eyes and wears an overt hearing aid in his right ear which sits over the ear.",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "JOHN",
+            "lastname": "BARTON",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "170 - 175 cm",
+                "build": "Medium",
+                "hair_color": "Coloured / dyed",
+                "hair_length": "Receding",
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "John Barton was sentenced to 20 years imprisonment in 2003 after being convicted in his absence for conspiring to import a commercial amount of heroin into the United Kingdom between 1999 and 2000. He is believed to have links to Fuengirola in Spain.",
+                "location_of_crime": "London, Overseas",
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": "Drug trafficking",
+                "additional_information": null,
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "MICHAEL",
+            "lastname": "PAUL",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "180 - 185cm",
+                "build": null,
+                "hair_color": null,
+                "hair_length": null,
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "Moogan, from Liverpool, is believed to be linked to a Rotterdam caf\u00e9 raided in 2013 as part of a series of coordinated strikes in the UK and the Netherlands. It is suspected the caf\u00e9 was being used as a front for an operations centre for international drug traffickers where they could meet for negotiations with cartels and for arranging the financing and transportation of huge quantities of drugs. It is alleged that during 2013 Moogan was involved in a conspiracy to import cocaine into the UK.",
+                "location_of_crime": "North West, Overseas",
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": "Drug trafficking",
+                "additional_information": "Moogan has blue eyes and a tattoo of a cross and a large crucifix on his left arm.",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "REZGAR",
+            "lastname": "ZENGANA",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "180 - 185cm",
+                "build": null,
+                "hair_color": "Black",
+                "hair_length": null,
+                "ethnic_appearance": "Middle Eastern"
+            },
+            "other": {
+                "background_information": "On the 10 December 2006 at Argyle Street, Glasgow, Zengana posed as a private hire taxi driver to pick up his 25 year old female victim before driving her to a private dwelling where he raped his victim. He was convicted of the rape but is still to be sentenced for this offence.",
+                "location_of_crime": null,
+                "date_of_incident": "2006-12-10",
+                "type_of_crime": "Rape",
+                "additional_information": "Zengana is an Iraqi national",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "OSMAN",
+            "lastname": "AYDENIZ",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": null,
+                "build": null,
+                "hair_color": null,
+                "hair_length": null,
+                "ethnic_appearance": null
+            },
+            "other": {
+                "background_information": "Aydeniz is wanted in connection with conspiracy to supply 17.83 kg of diamorphine. Three others have already been convicted in connection with this offence. He is also wanted for conspiracy to commit theft and transferring criminal property.",
+                "location_of_crime": null,
+                "date_of_incident": null,
+                "type_of_crime": "Drug trafficking",
+                "additional_information": "Aydeniz is a Cypriot national",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "OZGUR",
+            "lastname": "DEMIR",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": null,
+                "build": null,
+                "hair_color": null,
+                "hair_length": null,
+                "ethnic_appearance": null
+            },
+            "other": {
+                "background_information": "Demir is wanted in connection with conspiracy to supply 17.83 kg of diamorphine. Three others have already been convicted in connection with this offence.",
+                "location_of_crime": null,
+                "date_of_incident": null,
+                "type_of_crime": "Drug trafficking",
+                "additional_information": "Demir is a Turkish national",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "ERSIN",
+            "lastname": "MUSTAFA",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "165 - 170 cm",
+                "build": "Stocky",
+                "hair_color": "Dark",
+                "hair_length": null,
+                "ethnic_appearance": "Mediterranean"
+            },
+            "other": {
+                "background_information": "Between 2006 to 2008, Mustafa is believed to have been involved in insider dealing with seven other individuals. While employed at the London branch of investment bank JP Morgan Cazenove, he allegedly obtained information about future acquisitions and mergers, which were provided to others who then traded using this information. Over a two-year period, the group made approximately \u00a32.5 million in criminal profits. In July 2008 Mustafa was arrested by the City of London Police and then released on bail.",
+                "location_of_crime": "London",
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": null,
+                "additional_information": null,
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "CHRISTAKIS",
+            "lastname": "PHILIPPOU",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "165 - 170 cm",
+                "build": null,
+                "hair_color": "Dark / Greying",
+                "hair_length": "Receding",
+                "ethnic_appearance": "Mediterranean"
+            },
+            "other": {
+                "background_information": "Between 2004 and 2006, Philippou was involved in conspiracies where he and his co-defendants repeatedly set out to acquire, or sometimes to set up from scratch, travel agency businesses which were used as vehicles for fraud. The travel agencies attracted customers by offering cut-price holidays. The prices were so low that legitimate companies could not compete with them. In each case, the travel agency ceased to trade, leaving customers without a holiday. This scam defrauded an estimated 20,000 people.",
+                "location_of_crime": "London",
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": "Fraud",
+                "additional_information": "Known to use the alias Christakis Chrysostomou",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "TIMUR",
+            "lastname": "MEHMET",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "175 - 180 cm",
+                "build": "Slim",
+                "hair_color": "Black",
+                "hair_length": null,
+                "ethnic_appearance": null
+            },
+            "other": {
+                "background_information": "Mehmet is wanted for his role in a conspiracy to cheat the public revenue by operating a Missing Trader Intra-community (MTIC) fraud. This caused a loss to the UK of \u00a325 million (\u20ac31.5million).",
+                "location_of_crime": null,
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": "Fraud",
+                "additional_information": null,
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "COSTAS",
+            "lastname": "SAMPSON",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "175 - 180 cm",
+                "build": "Large",
+                "hair_color": "Black",
+                "hair_length": "Cropped",
+                "ethnic_appearance": "Mediterranean"
+            },
+            "other": {
+                "background_information": "On 25 August 2012 Sampson was convicted of raping a girl he met at a nightclub in London in February 2010. The girl was taken unwell after accepting a drink from a stranger, and Sampson and a friend offered to take her home. Sampson told one of the girl\u2019s friends that he was a medical expert. He later raped the girl at her flat while she was incapacitated.",
+                "location_of_crime": "London",
+                "date_of_incident": "2012-08-25",
+                "type_of_crime": "Rape",
+                "additional_information": "Sampson is a Cypriot national who is known to use the alias Kostas",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "MEHMET",
+            "lastname": "SALIH",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "165 - 170 cm",
+                "build": null,
+                "hair_color": "Brown",
+                "hair_length": "Short",
+                "ethnic_appearance": "Mediterranean"
+            },
+            "other": {
+                "background_information": "Between December 2010 and November 2011 Salih is accused of being involved in a conspiracy to supply cocaine. It is believed he was contacted on a regular basis by an associate for the purposes of buying cocaine, delivering it and collecting payments.",
+                "location_of_crime": "East of England",
+                "date_of_incident": "2017-09-09",
+                "type_of_crime": "Drug trafficking",
+                "additional_information": "Salih is a Cypriot national. He has a scar on his right eye.",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "SHAZAD",
+            "lastname": "GHAFOOR",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "5ft 11 ins",
+                "build": "Medium build",
+                "hair_color": null,
+                "hair_length": null,
+                "ethnic_appearance": "Asian"
+            },
+            "other": {
+                "background_information": "Ghafoor took a courtesy car from a dealership in Manchester in August 2013 using a driving license in another person\u2019s name. Police spotted the car and the pursuit ended in the Halifax area when he crashed. His wife and two children, who were also in the car, suffered minor injuries. Cash to the value of \u00a380-100,000 was recovered. There were traces of heroin, cocaine and cannabis on the notes. He was charged with fraud, possession of criminal property, dangerous driving and disqualified driving. Ghafoor was also charged with possession of cannabis with intent to supply after a vehicle was searched in Withington in November 2013 and cannabis worth \u00a3245,000 was found. In May 2014 Ghafoor pleaded guilty to dangerous driving. He was due to appear at court in February 2015 in relation to the other charges but failed to answer his bail and a warrant was issued for his arrest.",
+                "location_of_crime": "North West, Yorkshire and the Humber",
+                "date_of_incident": null,
+                "type_of_crime": "Drug trafficking, Fraud",
+                "additional_information": "Has pock mark on right cheek, scar on right of the nose, scar on top of right hand",
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "DAVID",
+            "lastname": "UNGI",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "5ft 0ins",
+                "build": null,
+                "hair_color": null,
+                "hair_length": null,
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "In July 2015, Ungi and two associates were in a vehicle on Banks Road in Garston, Liverpool, which police believe rammed a motorcycle carrying two males. A single shot from a 12-gauge shotgun was fired inflicting a fatal injury to one of the men and injuring the other. The murder victim was Garston teenager Vinny Waddington.",
+                "location_of_crime": "North West",
+                "date_of_incident": "2017-07-09",
+                "type_of_crime": "Assault, Drug trafficking, Murder",
+                "additional_information": null,
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "MARK",
+            "lastname": "QUINN",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "5ft 9ins",
+                "build": "Large",
+                "hair_color": "Brown",
+                "hair_length": "Short",
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "Wanted by Police Scotland on suspicion of supplying amphetamine.",
+                "location_of_crime": "Scotland",
+                "date_of_incident": null,
+                "type_of_crime": "Drug trafficking",
+                "additional_information": null,
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "JONATHON",
+            "lastname": "KELLY",
+            "about": {
+                "age": null,
+                "gender": "Male",
+                "height": "180cm",
+                "build": "Heavy",
+                "hair_color": "Brown",
+                "hair_length": "Short",
+                "ethnic_appearance": "White"
+            },
+            "other": {
+                "background_information": "Wanted by Police Scotland on recall to prison to serve remaining sentence of 9 years 10 months for a number of serious assaults.",
+                "location_of_crime": "Scotland",
+                "date_of_incident": null,
+                "type_of_crime": "Assault",
+                "additional_information": null,
+                "related_information": null
+            }
+        },
+        {
+            "firstname": "SARAH",
+            "lastname": "PANITZKE",
+            "about": {
+                "age": "42",
+                "gender": "Female",
+                "height": "170 cm",
+                "build": "Slim",
+                "hair_color": "Mousey",
+                "hair_length": "Short straight hair",
+                "ethnic_appearance": null
+            },
+            "other": {
+                "background_information": "Wanted by HMRC for conspiracy to acquire criminal property.",
+                "location_of_crime": "Yorkshire and the Humber",
+                "date_of_incident": null,
+                "type_of_crime": "Fraud",
+                "additional_information": "Yorkshire accent, blue eyes",
+                "related_information": "N/A"
+            }
+        }
+    ]
+}
